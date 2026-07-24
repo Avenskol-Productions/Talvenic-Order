@@ -1,0 +1,14 @@
+{
+  "itemName" : "mechbodyartaleinproto",
+  "price" : 6400,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbody",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechbodyartaleinproto.png",
+  "description" : "A prototype open-top mech body, designed by the Letheia Corporation.",
+  "shortdescription" : "artalein-00 Mech Body",
+  "itemTags" : [ ],
+  "mechPart" : ["body", "artaleinproto"]
+}

@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/artalein",
+		"value" : {
+			"aiFrames" : "artaleinAI.png",
+			"portraitFrames" : "portraits/artaleinportrait.png",
+			"staticFrames" : "staticartalein.png"	
+		}
+	}
+]

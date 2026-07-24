@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 4
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "artaleinT4.png",
+      "position" : [-4, 9],
+      "fullbright" : true
+    },
+    {
+      "image" : "artaleinT4lit.png",
+      "position" : [-4, 9]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "artaleinT4blocks.png"
+}

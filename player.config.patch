@@ -1,0 +1,7 @@
+[
+    { "op" : "add", "path" : "/defaultCodexes/artalein", "value" : [ "protectorate1", "protectorate2", "artaleindiary" ] },
+    { "op" : "add",
+        "path" : "/deploymentConfig/speciesStarterMechBody/artalein",
+        "value" : "mechbodyartaleinproto"
+    }
+]

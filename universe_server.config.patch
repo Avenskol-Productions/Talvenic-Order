@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/artalein",
+		"value" : [
+		    "/ships/artalein/artaleint0.structure",
+			"/ships/artalein/artaleint1.structure",
+			"/ships/artalein/artaleint2.structure",
+			"/ships/artalein/artaleint3.structure",
+			"/ships/artalein/artaleint4.structure",
+			"/ships/artalein/artaleint5.structure",
+			"/ships/artalein/artaleint6.structure",
+			"/ships/artalein/artaleint7.structure",
+			"/ships/artalein/artaleint8.structure"
+		]
+	}
+]

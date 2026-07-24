@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/artaleinStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+        {"pool" : "starterTreasure"},
+        {"item" : [ "artaleinsword", 1 ]}
+      ]
+    }]]
+  }
+]

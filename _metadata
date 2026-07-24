@@ -1,0 +1,11 @@
+{
+  "tags" : "Species",
+  "author" : "Avenskol Official",
+  "description" : "The official Talvenic Order Starbound expansion mod!.",
+  "friendlyName" : "Talvenic Order",
+  "link" : "",
+  "name" : "talvenicorder",
+  "path" : ".",
+  "steamContentId" : "",
+  "version" : "1.0.0"
+}

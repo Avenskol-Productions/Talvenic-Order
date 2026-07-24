@@ -1,0 +1,46 @@
+[
+  {
+    "op": "add",
+    "path": "/artaleinproto",
+    "value": {
+    "stats" : {
+      "energy" : 3,
+      "protection" : 3
+    },
+    "partParameters" : {},
+    "partImages" : {
+      "bodyBack" : "body/artaleinproto_back.png",
+      "bodyFront" : "body/artaleinproto_front.png",
+      "bodyFullbright" : "body/artaleinproto_fullbright.png"
+    },
+    "defaultPrimaryColors" : ["b5b5b5", "808080", "555555", "303030"],
+    "defaultSecondaryColors" : ["c0ab5e", "9b7e14", "6b5509", "342804"],
+    "animationCustom" : {
+      "animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
+        "sitPosition" : [0.3, 0.4]
+      }}}}
+    }
+  }
+  },
+  {
+    "op": "add",
+    "path": "/artalein",
+    "value": {
+    "stats" : {
+      "energy" : 5,
+      "protection" : 5
+    },
+    "partParameters" : {
+      "hazardImmunities" : ["biomeradiation", "biomecold"]
+    },
+    "partImages" : {
+      "bodyBack" : "body/artalein_back.png",
+      "bodyFront" : "body/artalein_front.png",
+      "bodyFullbright" : "body/artalein_fullbright.png"
+    },
+    "defaultPrimaryColors" : ["b5b5b5", "808080", "555555", "303030"],
+    "defaultSecondaryColors" : ["c0ab5e", "9b7e14", "6b5509", "342804"],
+    "animationCustom" : {}
+  }
+  }
+]

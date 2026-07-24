@@ -1,0 +1,29 @@
+{
+  "objectName" : "artaleinbannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small artalein wallbanner from a artalein academy.",
+  "shortdescription" : "Small artalein Wall Banner",
+  "race" : "artalein",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small artalein banner...",
+  "humanDescription" : "The artalein banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "artaleinDescription" : "I am so happy to see the artalein culture thrive",  
+  "inventoryIcon" : "artaleinbannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "artaleinbannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}
