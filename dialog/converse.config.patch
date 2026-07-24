@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "op": "add",
+      "path": "/converse/artalein",
+      "value": {
+        "default": [
+          "Bonjour.",
+          "Bonjour. This is <selfname>. What might your name be?"
+        ]
+      }
+    }
+  ]
+]

@@ -4,14 +4,18 @@
 		"path": "/helpme/artalein",
 		"value": {
 			"default": [
-				"Oh no",
-				"Help",
-				"Uh-oh.",
-				"I'm unarmed",
-				"I need help",
-				"Ah",
-				"What?"
+				"Je ne peux pas les surpasser!",
+				"Que Dieu me sauve !"
 			]
 		}
-	}
+	},
+  	{
+    	"op" : "add",
+    	"path" : "/safe/artalein",
+    	"value" : {
+    	  "default" : [
+    	    "Vive la revolution"
+    	  ]
+    	}
+  	}
 ]

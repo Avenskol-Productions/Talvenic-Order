@@ -1,0 +1,48 @@
+[  
+  {
+    "op" : "add",
+    "path" : "/tagCriteria/artalein",
+    "value" : {  
+      "default" : [  
+        "Je n'aime pas ca!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/enclosedArea/artalein",
+    "value" : {  
+      "default" : [  
+        "What happened to my house!?",
+        "Rendez a cet endroit son aspect d'autrefois!"
+      ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/otherDeed/artalein",
+    "value" : {  
+      "default" : [  
+        "I'm not staying with anyone else."
+      ]
+    }
+  },
+  {  
+    "op" : "add",
+    "path" : "/severe/artalein",
+    "value" : {  
+      "default" : [  
+        "Faites ce qu'il faut!"
+      ]
+    }
+  },
+  {  
+    "op" : "add",
+    "path" : "/final/artalein",
+    "value" : {  
+      "default" : [  
+        "Bon sang!"
+      ]
+    }
+  }
+]
