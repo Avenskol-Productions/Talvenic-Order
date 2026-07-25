@@ -1,8 +1,8 @@
 {
   "itemName" : "artaleinsword",
-  "price" : 500,
+  "price" : 2000,
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Legendary",
   "description" : "Finely refined by the Artalein, this heavy sabre is wielded in twice the hands of a standard sabre.",
   "shortdescription" : "Artalein Heavy Sabre",
   "tooltipKind" : "sword",
@@ -20,7 +20,7 @@
   "elementalType" : "physical",
   "primaryAbilityType" : "broadswordcombo",
   "primaryAbility" : {
-    "fireTime" : 0.22,
+    "fireTime" : 1.0,
     "baseDps" : 28
   },
   "altAbilityType" : "parry",
