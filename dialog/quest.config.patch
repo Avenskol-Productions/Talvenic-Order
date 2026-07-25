@@ -1,0 +1,176 @@
+[
+	{"op": "add","path": "/share_secret/pleaseTakeReply/artalein","value": {
+			"default": [
+				"Take this to <questGiver>. It's important for the revolution!"
+			]
+		}
+	},
+	{"op": "add","path": "/intimidate/intimidated/artalein","value": {
+			"default": [
+				"Dont threaten me with that <item>!"
+			]
+		}
+	},
+	{"op": "add","path": "/intimidate/notIntimidated/artalein","value": {
+			"default": [
+				"Why should I?"
+			]
+		}
+	},
+	{"op": "add","path": "/bribe/giftAccepted/artalein","value": {
+			"default": [
+				"Merci!"
+			]
+		}
+	},
+	{"op": "add","path": "/bribe/giftAccepted2/artalein","value": {
+			"default": [
+				"What does <questGiver> want?"
+			]
+		}
+	},
+	{"op": "add","path": "/bribe/requestAdditionToHouse/artalein","value": {
+			"default": [
+				"Place this here, s'il te plait."
+			]
+		}
+	},
+	{"op": "add","path": "/gift/giftAccepted/artalein","value": {
+			"default": [
+				"Merci."
+			]
+		}
+	},
+	{"op": "add","path": "/gift/giftAccepted2/artalein","value": {
+			"default": [
+				"Merci."
+			]
+		}
+	},
+	{"op": "add","path": "/gift/requestAdditionToHouse/artalein","value": {
+			"default": [
+				"Place this here, s'il te plait."
+			]
+		}
+	},
+	{"op": "add","path": "/return_stolen/objectTaken/artalein","value": {
+			"default": [
+				"Merci d'etre revenu <item>."
+			]
+		}
+	},
+	{"op": "add","path": "/collect_fine/fineCollected/artalein","value": {
+			"default": [
+				"Prenez-le!"
+			]
+		}
+	},
+	{"op": "add","path": "/collect_gift/giftProvided/artalein","value": {
+			"default": [
+				"Prenez ceci."
+			]
+		}
+	},
+	{"op": "add","path": "/request_craft/giftProvided/artalein","value": {
+			"default": [
+				"C'est fait. Prenez ceci <item>."
+			]
+		}
+	},
+	{"op": "add","path": "/borrow/giftProvided/artalein","value": {
+			"default": [
+				"Bien sur! <questGiver> can use this <item>!"
+			]
+		}
+	},
+	{"op": "add","path": "/extort/giftProvided/artalein","value": {
+			"default": [
+				"Prenez ce que vous voulez!"
+			]
+		}
+	},
+	{"op": "add","path": "/hat/crafting/artalein","value": {
+			"default": [
+				"You have the materials?"
+			]
+		}
+	},
+	{"op": "add","path": "/hat/crafted/artalein","value": {
+			"default": [
+				"Voici le chapeau."
+			]
+		}
+	},
+	{"op": "add","path": "/helmet/crafting/artalein","value": {
+			"default": [
+				"You have the materials?"
+			]
+		}
+	},
+	{"op": "add","path": "/helmet/crafted/artalein","value": {
+			"default": [
+				"Voici le casque."
+			]
+		}
+	},
+	{"op": "add","path": "/new_stock/trade/artalein","value": {
+			"default": [
+          		"Merci pour votre commande. Here's <questGiver>'s order!"
+			]
+		}
+	},
+	{"op": "add","path": "/kidnapping/kidnappersDead/artalein","value": {
+			"default": [
+				"Adoptez la revolution!"
+			]
+		}
+	},
+	{"op": "add","path": "/kidnapping/followHome/artalein","value": {
+			"default": [
+				"Take me to <questGiver>!"
+			]
+		}
+	},
+	{"op": "add","path": "/escort/found/artalein","value": {
+			"default": [
+				"Emmenez-moi a <questGiver>!"
+			]
+		}
+	},
+	{"op": "add","path": "/barter/trade/artalein","value": {
+			"default": [
+				"Merci de votre confiance. Here's <questGiver>'s <receivedItems>."
+			]
+		}
+	},
+	{"op": "add","path": "/escort_trade/collectDelivery/artalein","value": {
+			"default": [
+				"Avez-vous quelque chose pour moi?"
+			]
+		}
+	},
+	{"op": "add","path": "/escort_trade/provideDelivery/artalein","value": {
+			"default": [
+				"Voici vos affaires."
+			]
+		}
+	},
+	{"op": "add","path": "/kill_npcs/assistantIntro/artalein","value": {
+			"default": [
+				"Les revolutionnaires <questGiver> tasked me with aiding you against <enemy>."
+			]
+		}
+	},
+	{"op": "add","path": "/kill_npc/surrender/artalein","value": {
+			"default": [
+				"Je me retire!"
+			]
+		}
+	},
+	{"op": "add","path": "/kill_npc/betray/artalein","value": {
+			"default": [
+				"Espece d'idiot!"
+			]
+		}
+	}
+]

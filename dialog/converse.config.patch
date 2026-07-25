@@ -5,6 +5,18 @@
       "path": "/converse/artalein",
       "value": {
         "default": [
+          "What a fine day.",
+          "What do you need?"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/greeting/artalein",
+      "value": {
+        "default": [
           "Bonjour.",
           "Bonjour. This is <selfname>. What might your name be?"
         ]

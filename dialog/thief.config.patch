@@ -1,0 +1,14 @@
+[
+	{"op": "add", "path": "/accuse/artalein", "value": {
+			"default": [
+				"Rends ca!"
+			]
+		}
+	},
+	{"op": "add", "path": "/alert/artalein", "value": {
+			"default": [
+				"Voleur!"
+			]
+		}
+	}
+]

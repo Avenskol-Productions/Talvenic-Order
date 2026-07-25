@@ -12,6 +12,24 @@
 	},
 	{
 		"op": "add",
+		"path": "/cantReach/artalein",
+		"value": {
+			"default": [
+				"Impossible d'atteindre la cible!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/cheerOn/artalein",
+		"value": {
+			"default": [
+				"Pour la revolution!"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/killedTarget/artalein",
 		"value": {
 			"default": [
@@ -26,6 +44,15 @@
 		"value": {
 			"default": [
 				"Merde, je les ai perdus."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/outOfSight/artalein",
+		"value": {
+			"default": [
+				"La cible est hors de vue!"
 			]
 		}
 	}
