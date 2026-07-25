@@ -3,12 +3,12 @@
   "price" : 500,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A test weapon?",
-  "shortdescription" : "artalein Sword",
+  "description" : "Finely refined by the Artalein, this heavy sabre is wielded in twice the hands of a standard sabre.",
+  "shortdescription" : "Artalein Heavy Sabre",
   "tooltipKind" : "sword",
   "category" : "broadsword",
   "twoHanded" : true,
-  "itemTags" : ["weapon","melee","broadsword"],
+  "itemTags" : ["weapon","melee","broadsword","artalein"],
   "inventoryIcon" : "artaleinsword.png",
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {
@@ -20,9 +20,9 @@
   "elementalType" : "physical",
   "primaryAbilityType" : "broadswordcombo",
   "primaryAbility" : {
-    "fireTime" : 0.89,
-    "baseDps" : 7
+    "fireTime" : 0.22,
+    "baseDps" : 28
   },
-  "altAbilityType" : "downstab",
+  "altAbilityType" : "parry",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
