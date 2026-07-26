@@ -15,14 +15,13 @@
     "sellFactor" : 0.2,
     "items" : [
       { "item" : ["bomb", 5] },
-      { "item" : "artaleinkittyhead" },
       { "item" : "artaleinbannerlarge" },
-	  { "item" : "artaleinbannersmall" },
+	    { "item" : "artaleinbannersmall" },
       { "item" : "artaleinwoodchair" },
       { "item" : "artaleinwooddoor" },
-	  { "item" : "artaleinwoodenbed" },
-	  { "item" : "artaleinwoodendesk" },	  
-	  { "item" : "spawnerartalein" }	  
+	    { "item" : "artaleinwoodenbed" },
+	    { "item" : "artaleinwoodendesk" },  
+	    { "item" : "spawnerartalein" }
     ]
   },
   "description" : "Is that a Penguin?",

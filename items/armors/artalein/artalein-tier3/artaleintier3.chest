@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "chestarmour",
   "description" : "Enter the battlefield with confidence, encased in this heavy titanium breastplate.",
-  "shortdescription" : "Knight's Breastplate",
+  "shortdescription" : "Worker's Breastplate",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chest.png",

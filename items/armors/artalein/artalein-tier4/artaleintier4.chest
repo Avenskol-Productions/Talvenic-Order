@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "chestarmour",
   "description" : "A breastplate designed to strengthen the wearer's durability, as well as their resolve.",
-  "shortdescription" : "Lake Breastplate",
+  "shortdescription" : "Syndicalist Breastplate",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
