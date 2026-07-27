@@ -5,8 +5,9 @@
 	"subTitle" : "CO2",
 	"description" : "A mammalian race of people, whom strive for freedom and equality.
 They carry a familiar language, and are heavily androgynous.
-They also inhale C02, and exhale 02."
+They also inhale C02, and exhale 02. They sweat H20!"
   },
+  "statusEffects" : [ "artaleineffect1" ],
   "nameGen" : [ "/species/artaleinmalenamegen.config:names", "/species/artaleinfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/artaleinhurt_male1.ogg", "/sfx/humanoid/artaleinhurt_female1.ogg" ],
   "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "artalein", "Personality" ],
