@@ -7,12 +7,12 @@
     "config" : "/interface/windowconfig/merchant.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
-        "title" : "Penguin Merchant",
-        "subtitle" : "He looks serious"
+        "title" : "Artalein Dropbox",
+        "subtitle" : "Must be something useful in here."
       }
     },
     "buyFactor" : 1.0,
-    "sellFactor" : 0.2,
+    "sellFactor" : 1.0,
     "items" : [
       { "item" : ["bomb", 5] },
       { "item" : "artaleinbannerlarge" },
@@ -20,12 +20,13 @@
       { "item" : "artaleinwoodchair" },
       { "item" : "artaleinwooddoor" },
 	    { "item" : "artaleinwoodenbed" },
-	    { "item" : "artaleinwoodendesk" },  
+	    { "item" : "artaleinwoodendesk" },
+	    { "item" : "artaleinsword" },
 	    { "item" : "spawnerartalein" }
     ]
   },
-  "description" : "Is that a Penguin?",
-  "shortdescription" : "Penguin Merchant",
+  "description" : "Is that a moving box",
+  "shortdescription" : "Artalein Dropbox",
   "race" : "artalein",
   "category" : "Merchant",
   "price" : 1000,
@@ -39,7 +40,7 @@
   "humanDescription" : "If I kiss it, do you think it'll turn into a prince merchant?",
   "hylotlDescription" : "This silent creature is not one of us.",
   "novakidDescription" : "Don't see many penguin merchants round these parts",
-  "artaleinDescription" : "Cute",
+  "artaleinDescription" : "A dropbox! must be something useful in here.",
   "inventoryIcon" : "artaleinmerchanticon.png",
   "orientations" : [
     {
