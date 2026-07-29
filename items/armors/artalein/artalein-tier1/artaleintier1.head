@@ -12,6 +12,7 @@
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
   "level" : 1,
+  "statusEffects" : [ "to_glow_blue" ],
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",

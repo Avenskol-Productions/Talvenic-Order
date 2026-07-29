@@ -1,0 +1,11 @@
+{
+  "name" : "to_glow_blue",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+  "scripts" : [
+    "to_glow_blue.lua"
+  ],
+  "animationConfig" : "to_glow_blue.animation",
+  "label" : "Glow",
+  "icon" : "/interface/statuses/to_glow_blue.png"
+}
